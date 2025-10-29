@@ -18,7 +18,7 @@ export function MentorSection() {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-2xl opacity-20 blur-xl"></div>
             <img 
-              src="https://images.unsplash.com/photo-1653565685060-e15e492a7fda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25maWRlbnQlMjBidXNpbmVzcyUyMG1lbnRvciUyMHRlYWNoaW5nfGVufDF8fHx8MTc2MTc0OTAxNnww&ixlib=rb-4.1.0&q=80&w=1080"
+              src="\images\sathish.jpg"
               alt="Course Mentor"
               className="relative rounded-2xl shadow-2xl w-full object-cover aspect-[4/5]"
             />
